@@ -80,4 +80,4 @@ Give it a final review to your changes and when you are done then click the "Cre
 
 Now if you go back to your [_Hacktoberfest_](https://hacktoberfest.digitalocean.com/) profile, you will get to see your progress.
 
-Make sure you do at least five pull requests this month.
+Make sure you do at least five pull requests this month. 🎉 
